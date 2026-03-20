@@ -1,0 +1,1 @@
+Playwright is easy and simple
